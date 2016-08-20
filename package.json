@@ -1,0 +1,27 @@
+{ "name": "appldr161-pmb",
+  "version": "0.0.4",
+  "description": "Yet another web app boilerplate package.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/appldr161#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/appldr161.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/appldr161/issues"
+  },
+
+  "private": true, "license": "ISC",
+
+  "main": "nope.js",
+  "scripts": { "test": "demo-util-160404-test-demos" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "devDependencies": { "lib-demo-util-160404": "^0.1.0" },
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
